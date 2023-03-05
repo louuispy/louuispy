@@ -3,4 +3,4 @@
 - 🌱 Estudando Javascript, Typescript, MySQL e React Native
 - 😄 Pronouns: ele/dele
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=glsl,astro,rust,go)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?luish87508931=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)

@@ -15,9 +15,7 @@
   <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
   <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mediapipe/mediapipe-original.svg" />
 </div>
 

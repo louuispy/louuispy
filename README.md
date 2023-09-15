@@ -1,4 +1,4 @@
-### Hey guys! Eu sou Luís 👋
+### Hey guys! I'm Luís 👋
 
 - 🌱 Studying: Python, Machine Learning, Deep Learning and Computer Vision
 - 😄 Pronouns: he/him

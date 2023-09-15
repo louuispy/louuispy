@@ -11,7 +11,7 @@
 </a>
 
 <div style="display:inline_bock; gap:20px; margin-top: 20px;"><br>
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />

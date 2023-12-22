@@ -1,6 +1,6 @@
 ### Hey guys! I'm Luís 👋
 
-- 🤖 Computer Vision Engineer
+- 🤖 Data Science
 - 🌱 Studying: Python, Machine Learning, Deep Learning and Computer Vision
 - 😄 Pronouns: he/him
 

@@ -1,5 +1,4 @@
- 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Luís%20Henrique&fontAlignY=40&color=0:00c8ff,100:1467ff,ffcff&fontColor=fff)
+ ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Luís%20Henrique&fontAlignY=40&color=0:00c8ff,100:1467ff,ffcff&fontColor=fff)
 
 <h1 align="center">Hi, I'm Luís! 👋</h1>
 <h3 align="center">Studying to become a Data Scientist</h3>
@@ -38,7 +37,7 @@
 
 ----
 
-<h1 align="center">Contact<h1></h1>
+<h1 align="center">Contact<h1>
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white

@@ -43,7 +43,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/luishenrique-ia/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:louis.study.jobs@gmail.com)
+)](mailto:luishenriquesousay.t.2018@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/317bcbkfok4hrzsp4zp4lg2yhi4y?si=4fc386b3717d4469)
 

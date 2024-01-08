@@ -6,7 +6,7 @@
 ----
 
   - Name: **Luís Henrique**
-  - Age: **16**
+  - Age: **17**
   - Nationality: **Brazillian**
   - Studying: **Python**, **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**
 
@@ -14,14 +14,16 @@
   
   
 </div>
-<div align="center">
-  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=luish87508931&show_icons=true&theme=github_dark_dimmed" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=luish87508931&layout=compact&theme=github_dark_dimmed" />
-</a>
+<div display="flex">
+   <div align="center">
+     
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=luish87508931&show_icons=true&theme=github_dark_dimmed" />
+   </a>
+   <a href="https://github.com/anuraghazra/convoychat">
+     <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=luish87508931&layout=compact&theme=github_dark_dimmed" />
+   </a>
+   </div>
 </div>
 
 ----

@@ -18,10 +18,10 @@
    <div align="center">
      
    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=luish87508931&show_icons=true&theme=github_dark_dimmed" />
+     <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=louuispy&show_icons=true&theme=github_dark_dimmed" />
    </a>
    <a href="https://github.com/anuraghazra/convoychat">
-     <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=luish87508931&layout=compact&theme=github_dark_dimmed" />
+     <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=louuispy&layout=compact&theme=github_dark_dimmed" />
    </a>
    </div>
 </div>
@@ -45,7 +45,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/luishenrique-ia/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:luishenriquesousay.t.2018@gmail.com)
+)](mailto:louis.study.jobs.t.2018@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/user/317bcbkfok4hrzsp4zp4lg2yhi4y?si=4fc386b3717d4469)
 

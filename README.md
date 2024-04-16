@@ -12,29 +12,66 @@
 
 ----
   
-  
-</div>
-<div display="flex">
-   <div align="center">
-     
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=louuispy&show_icons=true&theme=github_dark_dimmed" />
-   </a>
-   <a href="https://github.com/anuraghazra/convoychat">
-     <img align="center" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=louuispy&layout=compact&theme=github_dark_dimmed" />
-   </a>
-   </div>
+<h3 align="center">Languages and Tools:<h3/>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+    alt="Python"/></code>
+<code><img
+    height="30"
+    src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+    alt="TensorFlow"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"
+    alt="Scikit-Learn"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+    alt="Pandas"/></code>
+ <code><img
+    height="30"
+    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg"
+    alt="Pandas"/></code>
+<code><img
+    height="30"
+    src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
+    alt="OpenCV"/></code>
+<code><img
+    height="30"
+    src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+    alt="Seaborn"/></code>
 </div>
 
 ----
-  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-  <h1 align="center">Languages and Tools</h1>
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img align="center" height=30em width=40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+
+<table>
+    <tr>
+        <td align="center">
+            <img
+                align="center"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=louuispy&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed"
+                alt="Github stats"
+            />
+        </td>
+        <td align="center">
+            <img
+                align="center"
+                src="https://github-readme-stats.vercel.app/api?username=louuispya&show_icons=true&locale=en&theme=github_dark_dimmed" alt="Github stats"
+            />
+        </td>
+        <td align="center">
+            <img
+                align="center"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=louuispy&theme=github_dark_dimmed"
+                alt="Github stats"
+            />
+        </td>
+    </tr>
+</table>
+
+ 
 </div>
 
 ----

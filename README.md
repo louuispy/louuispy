@@ -5,11 +5,16 @@
 
 ----
 
-  - Name: **Luís Henrique**
-  - Age: **17**
-  - Nationality: **Brazillian**
-  - Studying: **Python**, **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**
-
+```python
+class WhoAmI:
+    def __init__(self):
+        self.name = "Luís Henrique"
+        self.age = 17
+        self.nationality = "Brazilian"
+        self.email = "louis.study.jobs@gmail.com"
+        self.languages = ["Python"]
+        self.libraries = ["Scikit-Learn", "TensorFlow", "Matplotlib", "Seaborn", "Pandas", "NumPy", "SpaCy", "OpenCV", "SciPy"]
+```
 ----
   
 <h3 align="center">Languages and Tools:<h3/>
@@ -38,11 +43,6 @@
     height="30"
     src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
     alt="OpenCV"/></code>
-<code><img
-    height="30"
-    src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-    alt="Seaborn"/></code>
-</div>
 
 ----
 
@@ -76,7 +76,7 @@
 
 ----
 
-<h1 align="center">Contact<h1>
+<h3 align="center">Contact<h3>
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white

@@ -12,7 +12,7 @@ class WhoAmI:
         self.age = 17
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
-        self.languages = ["Python"]
+        self.languages = ["Python", "R"]
         self.libraries = ["Scikit-Learn", "TensorFlow", "Matplotlib", "Seaborn", "Pandas", "NumPy", "SpaCy", "OpenCV", "SciPy"]
 ```
 ----

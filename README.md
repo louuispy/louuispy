@@ -13,7 +13,7 @@ class WhoAmI:
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
         self.languages = ["Python", "R"]
-        self.libraries = ["Scikit-Learn", "TensorFlow", "Matplotlib", "Seaborn", "Pandas", "NumPy", "SpaCy", "OpenCV", "SciPy"]
+        self.libraries = ["Pandas", "Numpy", "Scikit-Learn", "Matplotlib", "Seaborn", "SpaCy", "OpenCV", "SciPy"]
 ```
 ----
   
@@ -25,10 +25,6 @@ class WhoAmI:
     alt="Python"/></code>
 <code><img
     height="30"
-    src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-    alt="TensorFlow"/></code>
-<code><img
-    height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"
     alt="Scikit-Learn"/></code>
 <code><img
@@ -38,7 +34,7 @@ class WhoAmI:
  <code><img
     height="30"
     src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg"
-    alt="Pandas"/></code>
+    alt="Numpy"/></code>
 <code><img
     height="30"
     src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"

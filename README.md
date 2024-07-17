@@ -58,7 +58,7 @@ class WhoAmI:
         <td align="center">
             <img
                 align="center"
-                src="https://github-readme-stats.vercel.app/api?username=louuispya&show_icons=true&locale=en&theme=github_dark_dimmed" alt="Github stats"
+                src="https://github-readme-stats.vercel.app/api?username=louuispy&show_icons=true&locale=en&theme=github_dark_dimmed" alt="Github stats"
             />
         </td>
         <td align="center">

@@ -13,32 +13,67 @@ class WhoAmI:
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
         self.languages = ["Python", "R"]
-        self.libraries = ["Pandas", "Numpy", "Scikit-Learn", "Matplotlib", "Seaborn", "SpaCy", "OpenCV", "SciPy"]
+        self.libraries = ["Pandas", "Numpy", "Scikit-Learn", "Matplotlib", "Seaborn", "SpaCy", "OpenCV", "SciPy", "TensorFlow"]
 ```
+
+> [!NOTE]
+> I'm currently studying R language.
+
 ----
   
-<h3 align="center">Languages and Tools:<h3/>
+<h3 align="center">Skills:<h3/>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
-    alt="Python"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"
-    alt="Scikit-Learn"/></code>
-<code><img
-    height="30"
-    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-    alt="Pandas"/></code>
- <code><img
-    height="30"
-    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg"
-    alt="Numpy"/></code>
-<code><img
-    height="30"
-    src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-    alt="OpenCV"/></code>
+
+<p>
+ <img height=25px width=81px alt="Python" src="https://img.shields.io/badge/-Python-0e5e9c?style=flat-square&logo=python&logoColor=white"/>
+ <img height=25px width=81px alt="Pandas" src="https://img.shields.io/badge/-Pandas-d11515?style=flat-square&logo=pandas&logoColor=white"/>
+ <img height=25px width=81px alt="Numpy" src="https://img.shields.io/badge/-Numpy-357be6?style=flat-square&logo=numpy&logoColor=white"/>
+ <img height=25px width=75px alt="Plotly" src="https://img.shields.io/badge/-Plotly-0f7d61?style=flat-square&logo=plotly&logoColor=white"/>
+ <img height=25px width=92px alt="SKLearn" src="https://img.shields.io/badge/-SKLearn-db750f?style=flat-square&logo=scikitlearn&logoColor=white"/>
+ <img height=25px width=115px alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-fc4705?style=flat-square&logo=tensorflow&logoColor=white"/>
+ <img height=25px width=80px alt="spaCy" src="https://img.shields.io/badge/-spaCy-0795b5?style=flat-square&logo=spacy&logoColor=white"/>
+ <img height=25px width=72px alt="SciPy" src="https://img.shields.io/badge/-SciPy-2926d4?style=flat-square&logo=scipy&logoColor=white"/>
+ <img height=25px width=88px alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-0049f4?style=flat-square&logo=opencv&logoColor=white"/>
+ <img height=25px width=88px alt="MySQL" src="https://img.shields.io/badge/-MySQL-153273?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+----
+
+<h4 align="center">Projects:<h4/>
+
+<table>
+ <tr>
+  <td>   
+   
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Deteccao-de-Objetos-em-Videos&theme=blue_navy)](https://github.com/louuispy/Deteccao-de-Objetos-em-Videos)
+   
+ </td>
+
+ <td>
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=NLP-Analise-de-Sentimentos&theme=blue_navy)](https://github.com/louuispy/NLP-Analise-de-Sentimentos)
+   
+  </td>
+ </tr>
+ 
+ <tr>
+ <td>
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Automatizacao-Excluir-Repositorios-GitHub&theme=blue_navy)](https://github.com/louuispy/Automatizacao-Excluir-Repositorios-GitHub)
+   
+  </td>
+
+ 
+
+ <td>
+  
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Dashboard-Analise-de-Vendas&theme=blue_navy)](https://github.com/louuispy/Dashboard-Analise-de-Vendas)
+   
+  </td>
+ </tr>
+
+
+</table>
 
 ----
 
@@ -47,20 +82,20 @@ class WhoAmI:
         <td align="center">
             <img
                 align="center"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=louuispy&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed"
+                src="https://github-readme-stats.vercel.app/api/top-langs?username=louuispy&show_icons=true&locale=en&layout=compact&theme=blue_navy"
                 alt="Github stats"
             />
         </td>
         <td align="center">
             <img
                 align="center"
-                src="https://github-readme-stats.vercel.app/api?username=louuispy&show_icons=true&locale=en&theme=github_dark_dimmed" alt="Github stats"
+                src="https://github-readme-stats.vercel.app/api?username=louuispy&show_icons=true&locale=en&theme=blue_navy" alt="Github stats"
             />
         </td>
         <td align="center">
             <img
                 align="center"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=louuispy&theme=github_dark_dimmed"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=louuispy&theme=blue_navy"
                 alt="Github stats"
             />
         </td>

@@ -13,7 +13,7 @@ class WhoAmI:
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
         self.languages = ["Python", "R"]
-        self.libraries = ["Pandas", "Numpy", "Scikit-Learn", "Matplotlib", "Seaborn", "SpaCy", "OpenCV", "SciPy", "TensorFlow"]
+        self.libraries = ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Scikit-Learn", "SpaCy", "OpenCV", "SciPy", "TensorFlow"]
 ```
 
 > [!NOTE]

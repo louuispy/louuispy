@@ -27,7 +27,7 @@ class WhoAmI:
 
 <p>
  <img height=25px width=81px alt="Python" src="https://img.shields.io/badge/-Python-0e5e9c?style=flat-square&logo=python&logoColor=white"/>
- <img height=25px width=81px alt="Javascript" src="https://img.shields.io/badge/-Javascript-0e5e9c?style=flat-square&logo=javascript&logoColor=white"/>
+ <img height=25px width=100px alt="Javascript" src="https://img.shields.io/badge/-Javascript-eead2d?style=flat-square&logo=javascript&logoColor=white"/>
  <img height=25px width=81px alt="Pandas" src="https://img.shields.io/badge/-Pandas-d11515?style=flat-square&logo=pandas&logoColor=white"/>
  <img height=25px width=81px alt="Numpy" src="https://img.shields.io/badge/-Numpy-357be6?style=flat-square&logo=numpy&logoColor=white"/>
  <img height=25px width=75px alt="Plotly" src="https://img.shields.io/badge/-Plotly-0f7d61?style=flat-square&logo=plotly&logoColor=white"/>

@@ -13,11 +13,11 @@ class WhoAmI:
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
         self.languages = ["Python", "R", "Mojo", "Javascript"]
-        self.libraries = ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Scikit-Learn", "SpaCy", "OpenCV", "SciPy", "TensorFlow"]
+        self.libraries = ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Scikit-Learn", "SpaCy", "OpenCV", "SciPy"]
 ```
 
 > [!NOTE]
-> I'm currently studying R, Mojo and Javascript languages.
+> I'm currently studying UX Design and Prompt Engineering. I'm very curious and I love learning new technologies! 
 
 ----
   

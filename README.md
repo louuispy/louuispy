@@ -12,7 +12,8 @@ class WhoAmI:
         self.age = 17
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
-        self.languages = ["Python", "R", "Mojo", "Javascript"]
+        self.languages = ["Python", "Javascript"]
+        self.databases = ["MySQL", "SQLite3"]
         self.libraries = ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Scikit-Learn", "SpaCy", "OpenCV", "SciPy"]
 ```
 
@@ -26,11 +27,11 @@ class WhoAmI:
 
 <p>
  <img height=25px width=81px alt="Python" src="https://img.shields.io/badge/-Python-0e5e9c?style=flat-square&logo=python&logoColor=white"/>
+ <img height=25px width=81px alt="Javascript" src="https://img.shields.io/badge/-Javascript-0e5e9c?style=flat-square&logo=javascript&logoColor=white"/>
  <img height=25px width=81px alt="Pandas" src="https://img.shields.io/badge/-Pandas-d11515?style=flat-square&logo=pandas&logoColor=white"/>
  <img height=25px width=81px alt="Numpy" src="https://img.shields.io/badge/-Numpy-357be6?style=flat-square&logo=numpy&logoColor=white"/>
  <img height=25px width=75px alt="Plotly" src="https://img.shields.io/badge/-Plotly-0f7d61?style=flat-square&logo=plotly&logoColor=white"/>
  <img height=25px width=92px alt="SKLearn" src="https://img.shields.io/badge/-SKLearn-db750f?style=flat-square&logo=scikitlearn&logoColor=white"/>
- <img height=25px width=115px alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-fc4705?style=flat-square&logo=tensorflow&logoColor=white"/>
  <img height=25px width=80px alt="spaCy" src="https://img.shields.io/badge/-spaCy-0795b5?style=flat-square&logo=spacy&logoColor=white"/>
  <img height=25px width=72px alt="SciPy" src="https://img.shields.io/badge/-SciPy-2926d4?style=flat-square&logo=scipy&logoColor=white"/>
  <img height=25px width=88px alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-0049f4?style=flat-square&logo=opencv&logoColor=white"/>

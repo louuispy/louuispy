@@ -51,6 +51,11 @@ class WhoAmI:
  </td>
  <td>
   
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Classificacao-Marketing-Investimento&theme=blue_navy)](https://github.com/louuispy/Classificacao-Marketing-Investimento)
+   
+  </td>
+ </tr>
+ 
  <tr>
   <td>   
    

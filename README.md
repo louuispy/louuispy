@@ -1,7 +1,7 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Luís%20Henrique&fontAlignY=40&color=0:00c8ff,100:1467ff,ffcff&fontColor=fff)
 
 <h1 align="center">Hi, I'm Luís! 👋</h1>
-<h3 align="center">Studying to become a Machine Learning Engineer</h3>
+<h3 align="center">Studying to become an AI Engineer</h3>
 
 ----
 

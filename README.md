@@ -18,7 +18,7 @@ class WhoAmI:
 ```
 
 > [!NOTE]
-> I'm currently studying UX Design and Prompt Engineering. I'm very curious and I love learning new technologies! 
+> I'm currently studying Streamlit, Langchain and UX Design. I'm very curious and I love learning new technologies! 
 
 ----
   
@@ -46,10 +46,17 @@ class WhoAmI:
  <tr>
   <td>   
    
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Chatbot-with-PDF-reader&theme=blue_navy)](https://github.com/louuispy/Chatbot-with-PDF-reader)
+   
+ </td>
+ <td>
+  
+ <tr>
+  <td>   
+   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Deteccao-de-Objetos-em-Videos&theme=blue_navy)](https://github.com/louuispy/Deteccao-de-Objetos-em-Videos)
    
  </td>
-
  <td>
   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=NLP-Analise-de-Sentimentos&theme=blue_navy)](https://github.com/louuispy/NLP-Analise-de-Sentimentos)

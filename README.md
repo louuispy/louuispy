@@ -14,7 +14,7 @@ class WhoAmI:
         self.email = "louis.study.jobs@gmail.com"
         self.languages = ["Python", "Javascript"]
         self.databases = ["MySQL", "SQLite3"]
-        self.libraries = ["Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Scikit-Learn", "SpaCy", "OpenCV", "SciPy"]
+        self.libraries_and_frameworks = ["Langchain", "Pandas", "Numpy", "Matplotlib", "Seaborn", "Plotly", "Scikit-Learn", "SpaCy", "OpenCV", "SciPy"]
 ```
 
 > [!NOTE]

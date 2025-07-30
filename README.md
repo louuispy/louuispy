@@ -105,13 +105,6 @@ class WhoAmI:
                 src="https://github-readme-stats.vercel.app/api?username=louuispy&show_icons=true&locale=en&theme=blue_navy" alt="Github stats"
             />
         </td>
-        <td align="center">
-            <img
-                align="center"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=louuispy&theme=blue_navy"
-                alt="Github stats"
-            />
-        </td>
     </tr>
 </table>
 

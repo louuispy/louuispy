@@ -9,7 +9,7 @@
 class WhoAmI:
     def __init__(self):
         self.name = "Luís Henrique"
-        self.age = 17
+        self.age = 18
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
         self.languages = ["Python", "Javascript"]
@@ -18,7 +18,7 @@ class WhoAmI:
 ```
 
 > [!NOTE]
-> I'm currently studying Streamlit, Langchain and UX Design. I'm very curious and I love learning new technologies! 
+> I'm currently studying Streamlit, Langchain, HTML, CSS, Javascript and UX Design. I'm very curious and I love learning new technologies! 
 
 ----
   

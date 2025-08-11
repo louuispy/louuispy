@@ -28,6 +28,8 @@ class WhoAmI:
 <p>
  <img height=25px width=81px alt="Python" src="https://img.shields.io/badge/-Python-0e5e9c?style=flat-square&logo=python&logoColor=white"/>
  <img height=25px width=100px alt="JavaScript" src="https://img.shields.io/badge/-Javascript-eead2d?style=flat-square&logo=javascript&logoColor=white"/>
+ <img height=25px width=75px alt="HTML" src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white"/>
+ <img height=25px width=65px alt="CSS" src="https://img.shields.io/badge/-CSS-purple?style=flat-square&logo=css&logoColor=white"/>
  <img height=25px width=81px alt="Pandas" src="https://img.shields.io/badge/-Pandas-d11515?style=flat-square&logo=pandas&logoColor=white"/>
  <img height=25px width=81px alt="Numpy" src="https://img.shields.io/badge/-Numpy-357be6?style=flat-square&logo=numpy&logoColor=white"/>
  <img height=25px width=75px alt="Plotly" src="https://img.shields.io/badge/-Plotly-0f7d61?style=flat-square&logo=plotly&logoColor=white"/>
@@ -46,12 +48,26 @@ class WhoAmI:
  <tr>
   <td>   
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Chatbot-with-PDF-reader&theme=blue_navy)](https://github.com/louuispy/Chatbot-with-PDF-reader)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=AnulaMulta&theme=blue_navy)](https://github.com/louuispy/AnulaMulta)
    
  </td>
  <td>
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Classificacao-Marketing-Investimento&theme=blue_navy)](https://github.com/louuispy/Classificacao-Marketing-Investimento)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Secret-Number-Game&theme=blue_navy)](https://github.com/louuispy/Secret-Number-Game)
+   
+  </td>
+ </tr>
+ 
+ <tr>
+  <td>   
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Challenge-Secret-Friend&theme=blue_navy)](https://github.com/louuispy/Challenge-Secret-Friend)
+   
+ </td>
+ <td>
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Chatbot-with-PDF-reader&theme=blue_navy)](https://github.com/louuispy/Chatbot-with-PDF-reader)
+   
    
   </td>
  </tr>
@@ -59,7 +75,7 @@ class WhoAmI:
  <tr>
   <td>   
    
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Deteccao-de-Objetos-em-Videos&theme=blue_navy)](https://github.com/louuispy/Deteccao-de-Objetos-em-Videos)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Classificacao-Marketing-Investimento&theme=blue_navy)](https://github.com/louuispy/Classificacao-Marketing-Investimento)
    
  </td>
  <td>

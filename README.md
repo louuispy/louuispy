@@ -13,10 +13,6 @@ class WhoAmI:
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
 ```
-
-> [!NOTE]
-> I'm currently studying Streamlit, Langchain, HTML, CSS, Javascript and UX Design. I'm very curious and I love learning new technologies! 
-
 ----
   
 <h3 align="center">Skills:<h3/>
@@ -36,8 +32,12 @@ class WhoAmI:
  <img height=25px width=88px alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-0049f4?style=flat-square&logo=opencv&logoColor=white"/>
  <img height=25px width=88px alt="MySQL" src="https://img.shields.io/badge/-MySQL-153273?style=flat-square&logo=mysql&logoColor=white"/>
  <img height=25px width=100px alt="LangChain" src="https://img.shields.io/badge/-LangChain-FFF?style=flat-square&logo=langchain&logoColor=black"/>
- <img height=25px width=90px alt="Django" src="https://img.shields.io/badge/-Django-0000FF?style=flat-square&logo=django&logoColor=white"/>
+ <img height=24px width=90px alt="Django" src="https://img.shields.io/badge/-Django-0000FF?style=flat-square&logo=django&logoColor=white"/>
+ <img height=25px width=90px alt="Django" src="https://img.shields.io/badge/-Streamlit-bf1255?style=flat-square&logo=streamlit&logoColor=white"/>
+ 
 </p>
+
+
 
 ----
 

@@ -27,7 +27,7 @@ class WhoAmI:
 
 <p>
  <img height=25px width=81px alt="Python" src="https://img.shields.io/badge/-Python-0e5e9c?style=flat-square&logo=python&logoColor=white"/>
- <img height=25px width=100px alt="JavaScript" src="https://img.shields.io/badge/-Javascript-eead2d?style=flat-square&logo=javascript&logoColor=white"/>
+ <img height=25px width=108px alt="JavaScript" src="https://img.shields.io/badge/-Javascript-ffba00?style=flat-square&logo=javascript&logoColor=black"/>
  <img height=25px width=75px alt="HTML" src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white"/>
  <img height=25px width=65px alt="CSS" src="https://img.shields.io/badge/-CSS-purple?style=flat-square&logo=css&logoColor=white"/>
  <img height=25px width=81px alt="Pandas" src="https://img.shields.io/badge/-Pandas-d11515?style=flat-square&logo=pandas&logoColor=white"/>
@@ -38,6 +38,8 @@ class WhoAmI:
  <img height=25px width=72px alt="SciPy" src="https://img.shields.io/badge/-SciPy-2926d4?style=flat-square&logo=scipy&logoColor=white"/>
  <img height=25px width=88px alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-0049f4?style=flat-square&logo=opencv&logoColor=white"/>
  <img height=25px width=88px alt="MySQL" src="https://img.shields.io/badge/-MySQL-153273?style=flat-square&logo=mysql&logoColor=white"/>
+ <img height=25px width=100px alt="LangChain" src="https://img.shields.io/badge/-LangChain-FFF?style=flat-square&logo=langchain&logoColor=black"/>
+ <img height=25px width=90px alt="Django" src="https://img.shields.io/badge/-Django-0000FF?style=flat-square&logo=django&logoColor=white"/>
 </p>
 
 ----

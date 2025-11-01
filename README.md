@@ -46,27 +46,13 @@ class WhoAmI:
 <table>
  <tr>
   <td>   
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=AnulaMulta&theme=blue_navy)](https://github.com/louuispy/AnulaMulta)
-   
- </td>
- <td>
-  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Secret-Number-Game&theme=blue_navy)](https://github.com/louuispy/Secret-Number-Game)
-   
-  </td>
- </tr>
- 
- <tr>
-  <td>   
-
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Challenge-Secret-Friend&theme=blue_navy)](https://github.com/louuispy/Challenge-Secret-Friend)
-   
- </td>
- <td>
 
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Chatbot-with-PDF-reader&theme=blue_navy)](https://github.com/louuispy/Chatbot-with-PDF-reader)
    
+ </td>
+ <td>
+   
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Deteccao-de-Objetos-em-Imagens&theme=blue_navy)](https://github.com/louuispy/Deteccao-de-Objetos-em-Imagens)
    
   </td>
  </tr>
@@ -96,6 +82,20 @@ class WhoAmI:
  <td>
   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Dashboard-Analise-de-Vendas&theme=blue_navy)](https://github.com/louuispy/Dashboard-Analise-de-Vendas)
+   
+  </td>
+ </tr>
+
+ <tr>
+  <td>   
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Challenge-Secret-Friend&theme=blue_navy)](https://github.com/louuispy/Challenge-Secret-Friend)
+   
+ </td>
+ <td>
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=AnulaMulta&theme=blue_navy)](https://github.com/louuispy/AnulaMulta)
+   
    
   </td>
  </tr>

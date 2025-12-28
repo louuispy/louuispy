@@ -12,6 +12,8 @@ class WhoAmI:
         self.age = 18
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
+        self.university = "Universidade Federal do Ceara"
+        self.degree = "Bachelor in Digital Media and Systems"
 ```
 ----
   

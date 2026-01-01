@@ -17,7 +17,8 @@ class WhoAmI:
 ```
 ----
   
-<h3 align="center">Skills:<h3/>
+<h2 align="center">Skills</h2>
+ 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
 
 <p>
@@ -39,105 +40,17 @@ class WhoAmI:
  
 </p>
 
-
-
-----
-
-<h4 align="center">Projects:<h4/>
-
-<table>
- <tr>
-  <td>   
-
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Chatbot-with-PDF-reader&theme=blue_navy)](https://github.com/louuispy/Chatbot-with-PDF-reader)
-   
- </td>
- <td>
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Deteccao-de-Objetos-em-Imagens&theme=blue_navy)](https://github.com/louuispy/Deteccao-de-Objetos-em-Imagens)
-   
-  </td>
- </tr>
- 
- <tr>
-  <td>   
-   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Classificacao-Marketing-Investimento&theme=blue_navy)](https://github.com/louuispy/Classificacao-Marketing-Investimento)
-   
- </td>
- <td>
-  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=NLP-Analise-de-Sentimentos&theme=blue_navy)](https://github.com/louuispy/NLP-Analise-de-Sentimentos)
-   
-  </td>
- </tr>
- 
- <tr>
- <td>
-  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Automatizacao-Excluir-Repositorios-GitHub&theme=blue_navy)](https://github.com/louuispy/Automatizacao-Excluir-Repositorios-GitHub)
-   
-  </td>
-
- 
-
- <td>
-  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Dashboard-Analise-de-Vendas&theme=blue_navy)](https://github.com/louuispy/Dashboard-Analise-de-Vendas)
-   
-  </td>
- </tr>
-
- <tr>
-  <td>   
-
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=Challenge-Secret-Friend&theme=blue_navy)](https://github.com/louuispy/Challenge-Secret-Friend)
-   
- </td>
- <td>
-
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louuispy&repo=AnulaMulta&theme=blue_navy)](https://github.com/louuispy/AnulaMulta)
-   
-   
-  </td>
- </tr>
-
-
-</table>
-
-----
-
-<table>
-    <tr>
-        <td align="center">
-            <img
-                align="center"
-                src="https://github-readme-stats.vercel.app/api/top-langs?username=louuispy&show_icons=true&locale=en&layout=compact&theme=blue_navy"
-                alt="Github stats"
-            />
-        </td>
-        <td align="center">
-            <img
-                align="center"
-                src="https://github-readme-stats.vercel.app/api?username=louuispy&show_icons=true&locale=en&theme=blue_navy" alt="Github stats"
-            />
-        </td>
-    </tr>
-</table>
-
- 
 </div>
 
 ----
 
-<h3 align="center">Contact<h3>
+<h2 align="center">Contact</h2>
+
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/luishenrique-ia/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:louis.study.jobs.t.2018@gmail.com)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-)](https://open.spotify.com/user/317bcbkfok4hrzsp4zp4lg2yhi4y?si=4fc386b3717d4469)
+)](mailto:louis.study.jobs@gmail.com)
 
 </div>

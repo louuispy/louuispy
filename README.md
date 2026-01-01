@@ -18,72 +18,32 @@ class WhoAmI:
 ```
 ----
   
-<h2 align="center">Skills</h2>
+<h3>Programming and Markup Languages </h3>
  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+
 <p>
-  <a href="https://github.com/search?q=user%3Alouuispy+language%3Apython">
-    <img alt="Python" src="https://img.shields.io/badge/Python-0e5e9c.svg?style=flat-square&logo=python&logoColor=white">
-  </a>
+  <a href="https://github.com/search?q=user%3Alouuispy+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+language%3Ahtml"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+language%3Acss"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+mysql"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"></a>
 
-  <a href="https://github.com/search?q=user%3Alouuispy+language%3Ajavascript">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ffba00.svg?style=flat-square&logo=javascript&logoColor=black">
-  </a>
+<h3> Libraries and Frameworks</h3>
 
-  <a href="https://github.com/search?q=user%3Alouuispy+language%3Ahtml">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+language%3Acss">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-7a3cff.svg?style=flat-square&logo=css3&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+pandas">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-d11515.svg?style=flat-square&logo=pandas&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+numpy">
-    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-357be6.svg?style=flat-square&logo=numpy&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+plotly">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-0f7d61.svg?style=flat-square&logo=plotly&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+scikit-learn">
-    <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-db750f.svg?style=flat-square&logo=scikitlearn&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+spacy">
-    <img alt="spaCy" src="https://img.shields.io/badge/spaCy-0795b5.svg?style=flat-square&logo=spacy&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+scipy">
-    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-2926d4.svg?style=flat-square&logo=scipy&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+opencv">
-    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-0049f4.svg?style=flat-square&logo=opencv&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+sql">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-153273.svg?style=flat-square&logo=mysql&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+langchain">
-    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-ffffff.svg?style=flat-square&logo=langchain&logoColor=black">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+django">
-    <img alt="Django" src="https://img.shields.io/badge/Django-0000FF.svg?style=flat-square&logo=django&logoColor=white">
-  </a>
-
-  <a href="https://github.com/search?q=user%3Alouuispy+streamlit">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-bf1255.svg?style=flat-square&logo=streamlit&logoColor=white">
-  </a>
+  <a href="https://github.com/search?q=user%3Alouuispy+pandas"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+numpy"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+plotly"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+sklearn"><img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+spacy"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+scipy"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+opencv"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+tensorflow"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+keras"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+mediapipe"><img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0078D4?logo=mediapipe&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+langchain"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+django"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3Alouuispy+streamlit"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"></a>
 </p>
-
-
 
 </div>
 

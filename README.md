@@ -10,7 +10,6 @@
 class WhoAmI:
     def __init__(self):
         self.name = "Luís Henrique"
-        self.age = 19
         self.nationality = "Brazilian"
         self.email = "louis.study.jobs@gmail.com"
         self.university = "Universidade Federal do Ceara"

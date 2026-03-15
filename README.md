@@ -29,9 +29,9 @@ class WhoAmI:
 
 <img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=intelligent-pricing-data-processing&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=NLP-Analise-de-Sentimentos&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=multimodal-rag-cli-gt&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Classificacao-Marketing-Investimento&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=NLP-Analise-de-Sentimentos&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Automatizacao-Excluir-Repositorios-GitHub&theme=tokyonight&hide_border=true" height=150/>
 

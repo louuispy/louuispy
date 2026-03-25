@@ -76,8 +76,8 @@ class WhoAmI:
 <br> 
 
 <h2>Stats</h3>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Louuispy's Github Stats" src="https://github-readme-stats-flax-theta-36.vercel.app/api/?username=louuispy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Louuispy's Top Languages" src="https://github-readme-stats-flax-theta-36.vercel.app/api/top-langs/?username=louuispy&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff" height=192/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Louuispy's Github Stats" src="https://github-readme-stats-flax-theta-36.vercel.app/api/?username=louuispy&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=0"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Louuispy's Top Languages" src="https://github-readme-stats-flax-theta-36.vercel.app/api/top-langs/?username=louuispy&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff&cache_seconds=0" height=192/></a>
 
  <br> 
   

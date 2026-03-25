@@ -1,7 +1,7 @@
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Luís%20Henrique&fontAlignY=40&color=0:4727d6,100:7b39ed,ffcff&fontColor=fff)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7E67F7FF&center=true&vCenter=true&repeat=true&width=508&height=69&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7E67F7FF&center=true&vCenter=true&repeat=true&width=508&height=69&lines=AI+Engineer" alt="Typing SVG" /></a>
 </p>
 
 ----

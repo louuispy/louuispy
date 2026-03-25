@@ -23,7 +23,7 @@ class WhoAmI:
 
 <p align="left">
  
-<img src="github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Hand-Detection-Tracking&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Hand-Detection-Tracking&theme=tokyonight&hide_border=true" />
  
 <img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Chatbot-with-PDF-reader&theme=tokyonight&hide_border=true" />
 

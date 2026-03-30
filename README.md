@@ -19,25 +19,20 @@ class WhoAmI:
 
 <h2>Data Science and AI projects</h3>
 
-
-
 <p align="left">
- 
-[<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Hand-Detection-Tracking&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/Hand-Detection-Tracking)
- 
-[<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Chatbot-with-PDF-reader&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/Chatbot-with-PDF-reader)
 
-[<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=pomofocus-clone&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/pomofocus-clone)
+[<img width="400" src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Hand-Detection-Tracking&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/Hand-Detection-Tracking)
+[<img width="400" src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Chatbot-with-PDF-reader&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/Chatbot-with-PDF-reader)
 
-[<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=multimodal-rag-cli-gt&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/multimodal-rag-cli-gt)
+[<img width="400" src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=pomofocus-clone&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/pomofocus-clone)
+[<img width="400" src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=multimodal-rag-cli-gt&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/multimodal-rag-cli-gt)
 
-[<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=NLP-Analise-de-Sentimentos&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/NLP-Analise-de-Sentimentos)
+[<img width="400" src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=NLP-Analise-de-Sentimentos&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/NLP-Analise-de-Sentimentos)
+[<img width="400" src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Automatizacao-Excluir-Repositorios-GitHub&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/Automatizacao-Excluir-Repositorios-GitHub)
 
-[<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Automatizacao-Excluir-Repositorios-GitHub&theme=tokyonight&hide_border=true&cache_seconds=0" height=150/>](https://github.com/louuispy/Automatizacao-Excluir-Repositorios-GitHub)
+[<img width="400" src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Classificacao-Marketing-Investimento&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/Classificacao-Marketing-Investimento)
+[<img width="400" src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Deteccao-de-Objetos-em-Imagens&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/Deteccao-de-Objetos-em-Imagens)
 
-[<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Classificacao-Marketing-Investimento&theme=tokyonight&hide_border=true&cache_seconds=0" />](https://github.com/louuispy/Classificacao-Marketing-Investimento)
-
-[<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Deteccao-de-Objetos-em-Imagens&theme=tokyonight&hide_border=true&cache_seconds=0" height=150/>](https://github.com/louuispy/Deteccao-de-Objetos-em-Imagens)
 </p>
 
 <br> 

@@ -27,7 +27,7 @@ class WhoAmI:
  
 <img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=Chatbot-with-PDF-reader&theme=tokyonight&hide_border=true&cache_seconds=0" />
 
-<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=intelligent-pricing-data-processing&theme=tokyonight&hide_border=true&cache_seconds=0" />
+<img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=pomofocus-clone&theme=tokyonight&hide_border=true&cache_seconds=0" />
 
 <img src="https://github-readme-stats-flax-theta-36.vercel.app/api/pin/?username=louuispy&repo=multimodal-rag-cli-gt&theme=tokyonight&hide_border=true&cache_seconds=0" />
 
